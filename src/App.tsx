@@ -5,7 +5,7 @@ import {
   CardHeader,
   Input,
   Button,
-} from "./components/ui/CustomComponents";
+} from "./components/CustomComponents";
 
 function App() {
   const [password, setPassword] = useState("");
